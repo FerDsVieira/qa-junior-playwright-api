@@ -40,3 +40,7 @@ Para rodar todos os testes automatizados:
 ``` bash
 npx playwright test
 ```
+
+## Evidências
+<img width="441" height="732" alt="image" src="https://github.com/user-attachments/assets/28dc2db3-1df9-470f-bd31-7170f8d597d8" />
+
