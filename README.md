@@ -37,4 +37,6 @@ cd qa-junior-playwright-api
 ## Execução
 
 Para rodar todos os testes automatizados:
+``` bash
 npx playwright test
+```
